@@ -29,3 +29,25 @@ I needed a place to:
 - and prepare for future contributions for GSoC.
 
 This repo is my personal roadmap + notes + experiments.
+## 3. Example Models (Hands-On Practice)
+
+I will implement simple Mesa models to reinforce concepts:
+
+- Basic Agent Model  
+- Grid Movement Model  
+- Wolf-Sheep Predation  
+- Schelling Segregation Model  
+- Traffic Example  
+- My own custom ABM experiments
+## 4. Daily Learning Log
+
+I record daily progress here:
+
+[`daily-log/daily-log.md`](daily-log/daily-log.md)
+
+Format:
+according to the structure i have created.There are basically 3 parts of mesa mainly,
+1.Modeling
+2.Analysis
+3.Visulaization
+This helps track consistency and active learning.
