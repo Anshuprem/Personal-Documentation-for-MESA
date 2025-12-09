@@ -1,9 +1,7 @@
 # Personal-Documentation-for-MESA
 My arranged personal documentation for learning Mesa (Python's Agent Based Modeling) includes particular topics notes, beginner CI/CD using GitHub Actions daily logs, and sample models and created as preparation for open source contribution.
 ## 1. Learning Index (My Notes → Official Docs)
-
 This table connects my notes to Mesa’s official documentation so that I always know what I studied and where it came from.
-
 | Topic | My Notes | Official Docs |
 |-------|----------|----------------|
 | What is ABM? | `docs/01_intro/abm_basics.md` | https://mesa.readthedocs.io/en/stable/overview.html |
@@ -31,5 +29,3 @@ I needed a place to:
 - and prepare for future contributions for GSoC.
 
 This repo is my personal roadmap + notes + experiments.
-
----
